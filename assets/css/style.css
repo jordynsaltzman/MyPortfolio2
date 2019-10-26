@@ -6,11 +6,12 @@
 
 img {
     width: 280px;
-    border-color: #4aaaa5;
-    border-style: groove;
     margin: 0 20px 20px 0;
 } 
 
+.nav-link{
+    color: #4aaaa5;
+}
 .nav-link:hover{
     background-color: rgb(204, 204, 204);
 }
@@ -31,7 +32,7 @@ h1 {
     height: 240px;
 }
 .project span {
-    width: 9%;
+    width: 93.4%;
     background-color: #4aaaa5;
     padding: 20px;
     font-size: 18px;
@@ -43,3 +44,45 @@ h1 {
     margin-bottom: 0;
     text-align: center;
 }
+
+
+
+@media screen and (max-width: 992px) {
+    .container {
+       max-width: 960px;
+    }
+ }
+ 
+ @media screen and (max-width: 768px) {
+    .container {
+       max-width: 720px;
+    }
+ }
+ 
+ @media screen and (max-width: 576px) {
+ 
+    .container {
+       max-width: 540px;
+    }
+ 
+    .navbar-brand {
+       background: #a9c9c7;
+       width: 100%;
+       text-align: center;
+    }
+    .col-sm-6 {
+       padding: 0;
+    }
+ 
+    .container-margin-bottom {
+       margin-bottom: 50px;
+    }
+ 
+    .nav {
+       margin: 10px auto;
+    }
+ 
+    .headshot {
+       width: 100%;
+    }
+ }
