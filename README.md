@@ -1,10 +1,20 @@
-# MyPortfolio2
-Second homework assignment - Using Bootstrap to create a responsive website 
+# Jordyn Saltzman | Web Development Portfolio
+
+This is the second version of my web developer portfolio. I incorporated styles from Bootstrap in order to make it responsive on different devices.
+
 https://jordynsaltzman.github.io/MyPortfolio2/
 
+## Known Issues
+Please note that the "Contact" page does not actually allow users to submit information.
 
+
+## Pages
+* About Me (index.html)
+* Portfolio (portfolio.html)
+* Contact (contact.html)
 
 ## Acknowledgements
+This website was created as part of the Johns Hopkins Coding Bootcamp curriculum. Thank you to my instructors, Stetson Lewis and Donald Hesler, for providing direction and assistance. 
 
 
 ## License 
