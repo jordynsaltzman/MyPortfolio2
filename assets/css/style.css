@@ -1,0 +1,45 @@
+
+
+.mainsection {
+    background-color: white;
+}
+
+img {
+    width: 280px;
+    border-color: #4aaaa5;
+    border-style: groove;
+    margin: 0 20px 20px 0;
+} 
+
+.nav-link:hover{
+    background-color: rgb(204, 204, 204);
+}
+
+h1 {
+    padding: 15px;
+}
+
+
+.project {
+    position: relative;
+    float: left;
+    overflow: hidden;
+    margin: 30px 0 30px 0;
+}
+
+.projectpix {
+    height: 240px;
+}
+.project span {
+    width: 9%;
+    background-color: #4aaaa5;
+    padding: 20px;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: bold;
+    position: absolute;
+    left: 0px;
+    bottom: 45px;
+    margin-bottom: 0;
+    text-align: center;
+}
