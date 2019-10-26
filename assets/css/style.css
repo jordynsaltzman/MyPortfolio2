@@ -86,3 +86,17 @@ h1 {
        width: 100%;
     }
  }
+
+ .footer {
+   padding: 30px;
+   clear: both;
+   font-size: 14px;
+   color: #ffffff;
+   color: #cccccc;
+   text-align: center;
+   background: #666666;
+   border-top-width: 10px;
+   border-top-color: #4aaaa5;
+   border-top-style: solid;
+   height: 50px;
+ }
